@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TextCrafter
+TextCrafter is a powerful and intuitive text processing tool designed to help you enhance and optimize your written content. Whether you're a student, writer, professional, or just someone who loves to write, TextCrafter provides a simple and efficient way to analyze and manipulate your text with just a few clicks.
+>>>>>>> 44f6ed61a488abef8f8fe166963a823b0f185d45
